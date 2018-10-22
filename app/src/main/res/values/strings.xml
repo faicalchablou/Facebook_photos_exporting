@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Adria Facebook Albums</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name ="facebook_app_id">477063689455890</string>
+    <string name="annule">Annulé</string>
+    <string name="no_permission">Impossible: manque des autorisations </string>
+    <string name="ok">OK</string>
+    <string name="succes">Succes</string>
+    <string name="successfull">Post ID: %1$s</string>
+    <string name="error">Error</string>
+</resources>
